@@ -1,0 +1,11 @@
+/* Configuro un background de la web uigradients.com */
+body {
+    background-image: url("../static/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: 170%; 
+}
+
+.tarea_hecha {
+    text-decoration: line-through;
+    color: #830000;
+}
