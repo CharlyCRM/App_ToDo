@@ -1,6 +1,6 @@
 # App_Todo
 
-Aplicación web con conexión a una base de datos que tiene como objetivo ser un gestor de tareas, es decir, una aplicación que permite al usuario realizar las sigueintes acciones:
+Aplicación web con conexión a una base de datos que tiene como objetivo ser un gestor de tareas, es decir, una aplicación que permite al usuario realizar las siguientes acciones:
 - Crear tareas
 - Marcas tareas como completadas
 - Editar tareas
