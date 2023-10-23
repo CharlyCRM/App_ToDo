@@ -27,3 +27,7 @@ Aplicación web con conexión a una base de datos que tiene como objetivo ser un
 - typing_extensions==4.6.3
 - urllib3==1.25.11
 - Werkzeug==2.3.6
+  
+![CleanShot 2023-10-23 at 12 33 33@2x](https://github.com/CharlyCRM/App_ToDo/assets/136794111/389801f4-3168-4892-be9d-0098b943e8e9)
+
+![CleanShot 2023-10-23 at 12 33 42@2x](https://github.com/CharlyCRM/App_ToDo/assets/136794111/c3978d05-ac32-4537-9541-ecf360d898c8)
